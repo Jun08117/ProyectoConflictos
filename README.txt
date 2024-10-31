@@ -1,2 +1,3 @@
-Descripción
--Colaboradores
+Introducción 
+-Descripción 
+Finalizar
