@@ -1,6 +1,6 @@
 Introducción Hola DGTIC
 <<<<<<< HEAD
--Descripción
+-Detalles
 Finalizar
 =======
 -Descripción 
