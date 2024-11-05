@@ -1,3 +1,3 @@
 Introducción Hola DGTIC
--Descripción 
+-Detalles 
 Finalizar ADIOS
